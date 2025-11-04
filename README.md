@@ -295,35 +295,3 @@ npm test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Spring Boot](https://spring.io/projects/spring-boot) - Backend framework
-- [React](https://reactjs.org/) - Frontend library
-- [TailwindCSS](https://tailwindcss.com/) - CSS framework
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor
-- [Google Gemini](https://ai.google.dev/) - AI recommendations
-- [Judge0](https://judge0.com/) - Code execution
-
-## 📞 Support
-
-For support, email support@dsaportal.com or create an issue in the repository.
-
-## 🔮 Future Enhancements
-
-- [ ] Real-time collaboration
-- [ ] Video explanations for problems
-- [ ] Mobile app (React Native)
-- [ ] Advanced analytics and reporting
-- [ ] Contest and competition features
-- [ ] Social features (leaderboards, discussions)
-- [ ] Integration with more programming languages
-- [ ] Offline mode support
-- [ ] Advanced AI features (code review, hints)
-
----
-
-**Happy Coding! 🎉**
