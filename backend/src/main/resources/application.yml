@@ -14,8 +14,12 @@ spring:
       idle-timeout: 30000
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
-    hibernate:
       ddl-auto: none
+    properties:
+      hibernate:
+        temp.use_jdbc_metadata_defaults: false
+        transaction.jta.platform: org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform
+        dialect: org.hibernate.dialect.PostgreSQLDialect
   h2:
     console:
       enabled: true
